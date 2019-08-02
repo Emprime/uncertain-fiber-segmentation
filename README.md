@@ -63,7 +63,7 @@ matplotlib - 3.0.2
 
 ### Data Download
 
-The used data is uploaded at [Zenodo](TODO). 
+The used data is uploaded at [Zenodo](https://zenodo.org/record/3355937). 
 
 The repository at Zenodo contains 5 zip files:
 - `shg-ce-de`  contains the enhanced and denoised scans as image slices, the scans are sorted by mice (wt wildtyp, het ill mice), scan location and individual scan
@@ -145,5 +145,4 @@ optional arguments:
 ### TODO
 
 - review in progress of readme
-- enter link to zenodo
 - add how to cite
