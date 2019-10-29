@@ -142,7 +142,22 @@ optional arguments:
 ```
 
 
-### TODO
-
-- review in progress of readme
-- add how to cite
+### How to cite
+```
+@Inproceedings{schmarje2019,
+	author={Schmarje, Lars
+	and Zelenka, Claudius
+	and Geisen, Ulf
+	and Gl{\"u}er, Claus-C.
+	and Koch, Reinhard},
+	editor={Fink, Gernot A.
+	and Frintrop, Simone
+	and Jiang, Xiaoyi},
+	title={2D and 3D Segmentation of Uncertain Local Collagen Fiber Orientations in SHG Microscopy},
+	booktitle={Pattern Recognition},
+	year={2019},
+	publisher={Springer International Publishing},
+	address={Cham},
+	pages={374--386},
+}
+```
