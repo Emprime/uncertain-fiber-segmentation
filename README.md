@@ -20,8 +20,8 @@ Especially the transformation of pretrained ImageNet weights from 2D to 3D can b
 **Abstract**  
 _Collagen fiber orientations in bones, visible with Second Harmonic Generation (SHG) microscopy, represent the inner structure and its alteration due to influences like cancer. While analyses of these orientations are valuable for medical research, it is not feasible to analyze the needed large amounts of local orientations manually. Since we have uncertain borders for these local orientations only rough regions can be segmented instead of a pixel-wise segmentation. We analyze the effect of these uncertain borders on human performance by a user study. Furthermore, we compare a variety of 2D and 3D methods such as classical approaches like Fourier analysis with state-of-the-art deep neural networks for the classification of local fiber orientations. We present a general way to use pretrained 2D weights in 3D neural networks, such as Inception-ResNet-3D a 3D extension of Inception-ResNet-v2. In a 10 fold cross-validation our two stage segmentation based on Inception-ResNet-3D and transferred 2D ImageNet weights achieves a human comparable accuracy._
 
-- The paper is accepted to GCPR 2019
-- The paper will be published by Springer
+- The paper was presented at DAGM GCPR 2019
+- The paper is published by Springer at [https://doi.org/10.1007/978-3-030-33676-9_26](https://doi.org/10.1007/978-3-030-33676-9_26)
 - The paper is available at [Arxiv](https://arxiv.org/abs/1907.12868).
 - A free copy of the paper and the supplementary material is also available [in this repository](./material).
 
